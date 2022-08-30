@@ -1,0 +1,476 @@
+*
+{
+    margin: 0;
+}
+.container-max
+{
+    width: 100%;
+}
+.container-first
+{
+    width: 100%;
+    height: 100vh;
+    background: url(./img/Rectangle.jpg);
+    background-size: cover;
+}
+.content-first
+{
+    width: 100%;
+    display: flex;
+}
+.content-first1
+{
+    display: block;
+}
+.content-first1 img
+{
+    margin: 30px 0px 0px 150px;
+}
+.content-first2 
+{
+    margin: 37px 0px 0px 720px;
+}
+.content-first2 a
+{
+    text-decoration: none;
+    color: white;
+    margin: 0px 10px 0px 10px;
+    font-size: 1.2em;
+    font-family: 'Gothic A1', sans-serif;
+}
+.content-first3
+{
+    color:white;
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 2em;
+    margin: 200px 0px 0px 150px;
+}
+.content-first3 h1
+{
+    font-weight: 100;
+}
+.content-first4
+{
+    margin: 50px 0px 0px 150px;
+}
+.content-first4 a
+{
+    color: white;
+    text-decoration: none;
+    padding: 25px 40px;
+    background-color:deeppink;
+    border-radius: 2px;
+}
+.content-first5
+{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.content-first6
+{
+    margin: -370px 90px 0px 0px;
+    width: 43%;
+}
+.content-first6 img
+{
+    width: 100%;
+}
+.content-first7
+{
+    margin: -100px 0px 0px 50%;
+}
+.container-second
+{
+    width: 100%;
+    height: 134.5vh;
+    background-image: url(./img/Rectangle2.jpg);
+}
+.content-second
+{
+    text-align: center;
+    padding: 100px 0px 80px 0px;
+    font-family: 'Gothic A1', sans-serif;
+}
+.content-second h1
+{
+    font-weight: 100;
+    font-size: 3em;
+    color: white;
+}
+.content-second p
+{
+    padding: 0px 0px 30px 0px;
+    color: grey;
+}
+.content-second2
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.content-second2 img
+{
+    width: 80%;
+}
+.container-third
+{
+    width: 100%;
+}
+.content-third
+{
+    display: flex;
+    height: 200vh;
+}
+.content-third-left
+{
+    width: 50%;
+}
+.content-third-right
+{
+    width: 50%;
+}
+.content-third-right2
+{
+    padding: 100px 0px 0px 70px;
+    height: 100vh;
+}
+.content-third-left2
+{
+    font-family: 'Gothic A1', sans-serif;
+    padding: 210px 0px 0px 250px;
+    height: 79.9vh;
+}
+.content-third-left2 p
+{
+    color: rgb(156, 156, 156);
+}
+.content-third-left2 h1
+{
+    font-weight: 100;
+    font-size: 3em;
+}
+.content-third-left2 p
+{
+    padding: 10px 0px 50px 0px;
+}
+.content-third-left3 p
+{
+    padding: 20px 0px 0px 0px;
+}
+.content-third-left3
+{
+    padding-top: 20px;
+}
+.content-third-left4
+{
+    padding: 100px  0px 0px 250px;
+    height: 100vh;
+}
+.content-third-right3
+{
+    font-family: 'Gothic A1', sans-serif;
+    padding: 200px 0px 0px 140px;
+    height: 79.9vh;
+}
+.content-third-right4 h1
+{
+    font-weight: 100;
+    font-size: 3em;
+}
+.content-third-right4 p
+{
+    padding: 10px 0px 50px 0px;
+}
+.content-third-right4 p
+{
+    color: rgb(156, 156, 156);
+}
+.content-third-right5 p
+{
+    padding: 20px 0px 0px 0px;
+}
+.content-third-right5
+{
+    padding-top: 20px;
+}
+.container-fourth
+{
+    width: 100%;
+    margin-top: 1050px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Gothic A1', sans-serif;
+}
+.container-fourth img
+{
+    padding: 20px;
+}
+.container-fourth p
+{
+    color: rgb(156, 156, 156);
+    padding: 5px;
+}
+.container-fourth h2
+{
+    padding-bottom: 20px;
+}
+.content-fourth
+{
+    width: 30%;
+}
+.content-fourth2
+{
+    width: 30%;
+}
+.content-fourth3
+{
+    width: 30%;
+}
+.container-fifth
+{
+    padding: 200px 0px 200px 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Gothic A1', sans-serif;
+    color: rgb(48, 48, 48);
+}
+.container-fifth h1
+{
+    font-size: 5em;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.container-fifth .content-fifth, .content-fifth2, .content-fifth3, .content-fifth4
+{
+    text-align: center;
+}
+.container-sixth
+{
+    width: 80%;
+    font-family: 'Gothic A1', sans-serif;
+    margin: auto;
+    display: flex;
+    padding: 0px 0px 200px 0px;
+}
+.container-sixth p
+{
+    color: rgb(156, 156, 156);
+    font-size: 1.2em;
+}
+.content-sixth-left
+{
+    width: 45%;
+    padding: 50px 0px 0px 50px;
+}
+.content-sixth-left p
+{
+    padding: 10px 0px 10px 0px;
+}
+.content-sixth-left p:first-child
+{
+    padding: 0px 0px 50px 0px;
+}
+.content-sixth-left h1
+{
+    font-size: 3em;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.content-sixth-right
+{
+    width: 55%;
+}
+.content-sixth-right img
+{
+    height: 75vh;
+    width: 100%;
+}
+.content-sixth-right2
+{
+    width: 45%;
+    padding: 50px 0px 0px 80px;
+}
+.content-sixth-right2 p
+{
+    padding: 10px 0px 10px 0px;
+}
+.content-sixth-right2 p:first-child
+{
+    padding: 0px 0px 50px 0px;
+}
+.content-sixth-right2 h1
+{
+    font-size: 3em;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.content-sixth-left2
+{
+    width: 55%;
+}
+.content-sixth-left2 img
+{
+    height: 75vh;
+    width: 100%;
+}
+.tair
+{
+    text-decoration:underline;
+    font-weight: 600;
+}
+.container-seventh
+{
+    width: 80%;
+    height: 50vh;
+    font-family: 'Gothic A1', sans-serif;
+    text-align: center;
+    margin: auto;
+    color: rgb(156, 156, 156);
+}
+.content-seventh
+{
+    font-size: 1.5em;
+    padding: 10px;
+}
+.content-seventh2 p
+{
+    display: inline;
+    justify-content: space-evenlyq;
+    margin: 5px;
+}
+.content-seventh2 p:last-child
+{
+    font-weight: 600;
+}
+.content-seventh3
+{
+    margin-top: 70px;
+}
+.content-seventh3 i:first-child
+{
+    color: black;
+    font-size: 0.5em;
+    margin: 10px;
+}
+.content-seventh3 i:last-child
+{
+    color: rgb(156, 156, 156);
+    font-size: 0.5em;
+    margin: 10px;
+}
+.container-eight
+{
+    width: 100%;
+    text-align: center;
+    margin: 70px 0px 200px 0px;
+}
+.container-nineth
+{
+    width: 100%;
+    height: 50vh;
+    background-image: url(./img/IMAGE9.jpg);
+    background-size: cover;
+}
+.container-tenth
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(./img/IMAGE10.png);
+    background-size: cover;
+    font-family: 'Gothic A1', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-tenth
+{
+    background-repeat: repeat;
+}
+.content-tenth h1
+{
+    font-size: 3.2em;
+    font-weight: 100;
+    color: white;
+}
+.content-tenth2
+{
+    margin-top: 50px;
+    text-align: center;
+}
+.content-tenth2 a
+{
+    padding: 30px 50px;
+    margin: 10px;
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.content-tenth2 a:first-child
+{
+    background-color:deeppink;
+}
+.container-eleventh
+{
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(27, 27, 27, 1);
+    font-family: 'Gothic A1', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.content-eleventh h1
+{
+    font-size: 3.2em;
+    font-weight: 100;
+    color: white;
+}
+.content-eleventh p
+{
+    font-size: 1.2em;
+    font-weight: 100;
+    padding: 50px 0px;
+    color: rgb(156, 156, 156);
+}
+.content-eleventh input:first-child
+{
+    padding: 20px 230px 20px 10px;
+}
+.content-eleventh input:last-child
+{
+    padding: 22px 50px 22px 50px;
+    background-color:deeppink;
+}
+.container-tweleth
+{
+    width: 100%;
+    height: 40vh;
+    background-color: rgba(27, 27, 27, 1);
+    color: rgb(88, 88, 88);
+}
+.content-tweleth
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-tweleth img
+{
+    width: 12.5%;
+}
+.content-tweleth2 
+{
+    text-align: center;
+    margin-top: 70px;
+}
+.content-tweleth2 a
+{
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+    margin: 20px;
+}
